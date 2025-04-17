@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_clock"
+        android:title="Đồng Hồ" />
+    <item
+        android:id="@+id/menu_toggle_theme"
+        android:title="Chuyển Đổi Giao Diện" />
+    <item
+        android:id="@+id/menu_add_event"
+        android:title="Thêm sự kiện"/>
+</menu>
